@@ -1,0 +1,5 @@
+def diff(a,b):
+      c=0
+      c=a-b
+      print(c)
+diff(4,3)
